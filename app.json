@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "SaveSpot",
+    "slug": "SaveSpot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "savespot",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.SaveSpot",
+      "infoPlist": {
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLSchemes": ["savespot"]
+          }
+        ],
+        "LSApplicationQueriesSchemes": ["savespot"],
+        "CFBundleAllowMixedLocalizations": true,
+        "UIAppFonts": [
+          "HiraginoSans-W6.ttf"
+        ]
+      },
+      "associatedDomains": ["applinks:savespot.app"],
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    }
+  }
+}
