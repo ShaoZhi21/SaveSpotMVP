@@ -2,6 +2,8 @@
 
 SaveSpot is your ultimate **location-saving app** designed for explorers, foodies, and anyone who discovers amazing places through videos. Seamlessly **save videos from platforms like TikTok, Instagram, Lemon8**, and even websites — all while **automatically extracting the location** and organizing them into neat folders for you.
 
+[![App Demo](https://img.youtube.com/vi/sw6uQladJdE/0.jpg)](https://youtube.com/shorts/sw6uQladJdE?feature=share)
+
 ## ✨ Features
 
 - 🔗 **Save from Anywhere**  
